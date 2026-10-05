@@ -20,6 +20,9 @@ Computer graphics coursework focused on rendering, graphics programming and rela
 ### EDA II — Search Engine
 A C-based academic project involving data structures, algorithms, file handling, testing and build automation.
 
+### Object-Oriented Programming
+Java-based object-oriented programming project developed during my degree, covering object-oriented design, software structure and practical programming.
+
 ### Systems I
 Collection of systems programming labs developed during my degree.
 
