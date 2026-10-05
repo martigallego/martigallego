@@ -40,6 +40,6 @@ Collection of systems programming labs developed during my degree.
 
 ## Contact
 
-GitHub: [@martigallego](https://github.com/martigallego)
-Linkedin: [@martigallego](https://www.linkedin.com/in/mart%C3%AD-gallego-42529b366/)
-Gmail: [@martigallego](martigallego3006@gmail.com)
+[@GitHub](https://github.com/martigallego)
+[@Linkedin](https://www.linkedin.com/in/mart%C3%AD-gallego-42529b366/)
+[@Gmail](martigallego3006@gmail.com)
